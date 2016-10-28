@@ -15,3 +15,16 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
   When we merge the two branches, we get the changes made from both of the branches. In the game, we now have colors and coins :)
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+ Automatic
+  pros-
+    easy
+    quick
+  cons-
+    wrong thing could be merged
+Manual
+  pros-
+    more choice on merge
+  cons-
+    more difficult than automatic 
