@@ -27,3 +27,7 @@ When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
     If you wanted o add features to your project it would be sensible to add it to a new branch rather than working on the master.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+    You may not want all the changes that are on the on the remote repo.
