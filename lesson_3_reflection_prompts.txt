@@ -30,4 +30,7 @@ master?  What benefits does each approach have?
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-    You may not want all the changes that are on the on the remote repo.
+    You may not want all the changes that are on the on the remote repo
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+    Forks are useful when you want to take someone elses work and add to it. Branches are good when you want to add a new feature to a program but it's not ready for the master version yet. cloning is useful when you need to download a repo locally to edit.
