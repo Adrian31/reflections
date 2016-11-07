@@ -40,3 +40,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
     Sharing files through another service like google drive. Could be easy but merging changes would be much harder, however saving files would be much easier. In saying that you can't go into detail with changes unless you comment inside the file itself.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+    When it's a change that you think should occur, and want the feedback of the master controller. A change that might not necessarily be for the better
